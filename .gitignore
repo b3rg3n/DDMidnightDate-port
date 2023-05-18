@@ -1,0 +1,13 @@
+# Useless files
+game/cache/
+game/saves/
+game/tl/
+game/renpy-ActionEditor3-master/
+game/renpy-ActionEditor3-beta_230315_1/
+game/scripts/.vscode/
+*.rpyc
+*.rpyb
+*.rpym
+*.rpymc
+*.txt
+*.save
