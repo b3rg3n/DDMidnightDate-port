@@ -1,2 +1,5 @@
-# DDMidnightDate-port
- DDLC Mod Port
+# Doki Doki Midnight Date
+
+Порт того самого мода.
+Перевод выполнен командой <<Team Анархисты>>.
+Порт сделал @b3rg3n.
